@@ -1,3 +1,4 @@
+[TOC]
 # <center>Markdown语法学习</center>
 
 ## 一、标题
